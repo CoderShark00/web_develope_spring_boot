@@ -1,4 +1,4 @@
-package me.ahngeunsu.springbootdeveloper;
+package me.seunghyuk.springbootdeveloper;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
